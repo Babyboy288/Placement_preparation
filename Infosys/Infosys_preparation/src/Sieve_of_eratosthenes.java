@@ -1,3 +1,5 @@
+/*find the prime number using sieve of eratosthenes method */
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
